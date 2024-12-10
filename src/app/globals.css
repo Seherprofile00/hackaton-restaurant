@@ -125,7 +125,7 @@ position:absolute;
 
 .footer-input {
   width: 214px;
-  margin-left: 1013px;
+  margin-left: 850px;
   margin-top: -8%;
   font-size: 20px;
  color: rgb(242, 247, 247);
@@ -148,10 +148,10 @@ position:absolute;
 .footer-button {
   background-color: #f59e0b; /* bg-amber-400 */
   color: black;
-  margin-left: 1255px;
-  margin-top: -3.5%;
+  margin-left: 1092px;
+  margin-top: -4.3%;
   border-radius: 0.5rem; /* rounded-lg */
-  width: 212px;
+  width: 102px;
   height: 55px;
   transition: background-color 0.2s ease-in-out;
   position: absolute;
