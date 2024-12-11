@@ -437,4 +437,57 @@ color: #e9d7b1;
   background-color: #6b7280;
 }
 
+/* FoodCategory */
+.FoodCategory{
+  display: flex;
+  color: #d1d5db;
+  font-size: 20px;
+  margin-top: 5%;
+  /* border: 2px solid hotpink; */
 
+}
+.FoodCategory-images{
+  display: inline-block;
+  margin-top: 25%;
+ 
+  gap: 9px;
+  margin-left: -11%;
+}
+.Food-image-01{
+  margin-right: 10px;
+}
+.Food-image-01:hover{
+  filter: drop-shadow(10px 20px 20px #f59e0b);
+  border: 2px solid #f59e0b;
+}
+
+.Fod-01-heading{
+  margin-left: 210%;
+  width: max-content;
+  color: #f59e0b;
+}
+.Fod-02-heading{
+  margin-left: 190%;
+  width: max-content;
+  font-size: 37px;
+}
+.Fast-food-deal{
+  background-color: #f7f7f8;
+  color: #f59e0b;width: 190px;
+  margin-top: -15%;
+  z-index: -1;
+  opacity: 500%;
+}
+.Fast--deal{
+  margin-top: 10%;
+  position: absolute;
+  background-color:#ffffff;
+  margin-left: 3%;
+}
+.Fast---deal{
+  margin-top: 15%;
+  position: absolute;
+  background-color:#f59e0b;
+  margin-left: 0%;
+  color: #f7f7f8;
+}
